@@ -1,7 +1,5 @@
 .game-logo {
-
 }
-
 #start-game-button {
   border: 0;
   box-shadow: 0;
@@ -11,7 +9,6 @@
   font-size: 30px;
   border-radius: 5px;
 }
-
 #hangman {
   text-align: center;
 }
